@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - I am a Grade One student of WuHan University, majoring in computer science.
 - I am now focus on learning some of the basics of computer science,such as Programming Languages and Data Structures.
 - I have basic knowledge of C/C++(Commonly), Java, Python and sql.
-
+- Here is my blog : [Vks's blog](https://vks-feng.github.io/)
 ## 🔭 Now
 
 ---
