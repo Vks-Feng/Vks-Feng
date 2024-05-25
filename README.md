@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - I am a student from the 2023 cohort at Wuhan University, majoring in Software Engineering..
 - I am currently dedicated to building a solid foundation in computer science, such as data structures, operating systems, computer networks, and so on.
 - While I still have a considerable journey ahead before truly delving into the realm of computer science, I am committed to diligently advancing step by step.
-- Here is my blog ![Vks's Blog](https://vks-feng.github.io/) (under construction......)
+- Here is my blog [Vks's Blog](https://vks-feng.github.io/) (under construction......)
 
 ## Now 📆
 
