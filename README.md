@@ -18,20 +18,22 @@ Here are some ideas to get you started:
 ![image](https://github.com/Vks-Feng/Vks-Feng/blob/main/bkg.png)
 
 
-## 😄 About ME
+## About ME 😝
 
 ---
 
-- I am a Grade One student of WuHan University, majoring in computer science.
-- I am now focusing on learning some of the basics of computer science,such as Programming Languages and Data Structures.
-- I have basic knowledge of C/C++(Commonly), Java, Python and sql.
-- Here is my blog : [Vks's blog](https://vks-feng.github.io/)
-## 🔭 Now
+- I am a student from the 2023 cohort at Wuhan University, majoring in Software Engineering..
+- I am currently dedicated to building a solid foundation in computer science, such as data structures, operating systems, computer networks, and so on.
+- While I still have a considerable journey ahead before truly delving into the realm of computer science, I am committed to diligently advancing step by step.
+- Here is my blog ![Vks's Blog](https://vks-feng.github.io/) (under construction......)
+
+## Now 📆
 
 ---
 
-- Recently I have learned some basic knowledge of HTML, CSS, JavaScript and Vue3 for taking part in a Web development Competition.
-- Planning to learn more about frontend and backend development with the chance mentioned in the above sentence, but won't stay on them for long.
-- Planning to learn some more advanced skills and knowlegde to improve myself.
+- I am currently occupied with revising for my final exams.
+- Planning to enhance my knowledge of Python and Java during the summer break.
+- I plan to take courses on algorithms, computer architecture and its prerequisites during the summer break.
+- Time permits, I will study knowledge about mini-program development and backend development during my spare time and find pleasure in them.
 - Specific plans are confidential 👻
 
