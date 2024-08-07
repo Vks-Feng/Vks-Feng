@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ---
 
 - Planning to enhance my knowledge of Python and Java during the summer break.
-- I plan to take courses on algorithms, computer architecture and its prerequisites during the summer break.
-- Time permits, I will study knowledge about mini-program development and backend development during my spare time and find pleasure in them.
+- I plan to take courses on algorithms, computer architecture during the summer break.
 - Specific plans are confidential 👻
 
