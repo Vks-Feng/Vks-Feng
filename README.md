@@ -18,20 +18,18 @@ Here are some ideas to get you started:
 ![image](https://github.com/Vks-Feng/Vks-Feng/blob/main/bkg.png)
 
 
-## About ME 😝
+## About Me 😝
 
----
 
-- I am a student from the 2023 cohort at Wuhan University, majoring in Software Engineering..
-- I am currently dedicated to building a solid foundation in computer science, such as data structures, operating systems, computer networks, and so on.
-- While I still have a considerable journey ahead before truly delving into the realm of computer science, I am committed to diligently advancing step by step.
-- Here is my blog [Vks's Blog](https://vks-feng.github.io/) (under construction......)
+🎓 I am a student from the 2023 cohort at Wuhan University, majoring in Software Engineering.
 
-## Now 📆
+💻 Currently, I am focused on learning backend development and working on projects to strengthen my skills in this area.
 
----
+🔍 I'm dedicated to developing a strong foundation in key areas of computer science such as data structures, operating systems, and computer networks, while also diving deep into backend technologies.
 
-- Planning to enhance my knowledge of Python and Java during the summer break.
-- I plan to take courses on algorithms, computer architecture during the summer break.
-- Specific plans are confidential 👻
+🚀 I'm actively working on my own projects, and I'm excited to continue growing and improving them!
+
+📝 You can follow my journey through my blog Vks's Blog (under construction...).
+
+
 
