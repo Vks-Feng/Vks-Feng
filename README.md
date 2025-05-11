@@ -17,19 +17,34 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/Vks-Feng/Vks-Feng/blob/main/bkg.png)
 
-
 ## About Me 😝
+🎓 I’m a student from the 2023 cohort at **Wuhan University**, majoring in **Software Engineering**.
 
+💻 I’m currently focused on **backend development**, especially using Java, and I’m working on various projects to solidify my skills.
 
-🎓 I am a student from the 2023 cohort at Wuhan University, majoring in Software Engineering.
+🧠 I’m passionate about building a strong foundation in **computer science**, diving into areas like **data structures**, **operating systems**, and **computer networks**, while deepening my backend expertise.
 
-💻 Currently, I am focused on learning backend development and working on projects to strengthen my skills in this area.
+🔧 My tech stack includes:
 
-🔍 I'm dedicated to developing a strong foundation in key areas of computer science such as data structures, operating systems, and computer networks, while also diving deep into backend technologies.
+- **Languages**: Java (primary), C, C++, Python, JavaScript, Go……
 
-🚀 I'm actively working on my own projects, and I'm excited to continue growing and improving them!
+- **Frontend**: Html, CSS, Vue (basic usage and some project experience)……
 
-📝 You can follow my journey through my blog Vks's Blog (under construction...).
+- **Backend**: Java backend development, Java concurrency, Spring, Spring Boot……
 
+- **Databases**: MySQL, Redis……
+
+- **Tools**: Git, Jenkins, Docker, Maven……
+
+🛠️ I also enjoy using code to create **fun or practical tools** that help with everyday life — from automation scripts to handy utilities, I find joy in solving small problems with simple code.
+
+🚀 I’m actively building my own projects and aiming to join **an internet company as a backend developer** after graduation.
+
+📝 You can follow my journey through my blog: [Vks's Blog](https://www.cnblogs.com/vksfeng) (under construction…)
+
+## More About Me 🎯
+🧍‍♂️ I’m an **ISTJ** — calm, responsible, and pragmatic, but with warmth and passion beneath the surface.
+
+🎨 I enjoy **Chinese calligraphy**, **playing pool**, **petting cats**, and listening to **R&B** music.
 
 
