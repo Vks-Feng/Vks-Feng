@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/Vks-Feng/Vks-Feng/blob/main/bkg.png)
+![image](https://github.com/Vks-Feng/Vks-Feng/blob/main/ccca-hd.png)
 
 ## About Me 😝
 🎓 I’m a student from the 2023 cohort at **Wuhan University**, majoring in **Software Engineering**.
